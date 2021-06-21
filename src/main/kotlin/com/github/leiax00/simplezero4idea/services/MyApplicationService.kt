@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.leiax00.simplezero4idea.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.leiax00.simplezero4idea.MyBundle
 
 class MyApplicationService {
 
